@@ -7,4 +7,5 @@ Transcribe an audio file to text and also get each word start and end time.
 4. Download a private key as JSON.
 
 npm install 
+
 node index.js
